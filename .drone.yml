@@ -46,9 +46,9 @@ deploy:
 
 notify:
   gitter:
-    webhook: "https://webhooks.gitter.im/e/0bbc88699fe6e59c8993"
+    webhook: "https://webhooks.gitter.im/e/004fa916fb1589b865d0"
     when:
-      repo: capitalone/cloud-custodian
+      repo: minhchuduc/cloud-custodian
 
 cache:
   mount:
